@@ -1,7 +1,7 @@
 # src/domain/common/base_entity.py
 
 from abc import ABC
-from uuid import UUID, uuid4
+from uuid import UUID,
 from dataclasses import dataclass, field
 from typing import Any
 
